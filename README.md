@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-orange?style=flat-square&logo=google-analytics">
-  <img src="https://img.shields.io/badge/ML%20&%20AI-Creator-green?style=flat-square&logo=codeforces">
+  <img src="https://img.shields.io/badge/ML%20&%20AI-Enthusiast-orange?style=flat-square&logo=codeforces">
   <img src="https://img.shields.io/badge/Generative%20AI-Focused-purple?style=flat-square&logo=openai">
 </p>
 
