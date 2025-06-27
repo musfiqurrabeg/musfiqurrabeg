@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/Generative%20AI-Focused-purple?style=flat-square&logo=openai">
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Repository;Hi+I+am+Musfiqur+Rahman+Abeg" alt="Typing SVG" />
 </p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 😎 About Me
