@@ -15,7 +15,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🧠 About Me
+## 😎 About Me
 
 Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
 
@@ -34,7 +34,20 @@ This repo is my **digital toolbox** to streamline my data journey.
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn, seaborn, XGBoost, transformers  
 - **Tools:** Jupyter, VSCode, Git, Conda, Docker  
-- **Platforms:** Kaggle, Google Colab, Hugging Face, OpenAI APIs  
+- **Platforms:** Kaggle, Google Colab, Hugging Face, OpenAI APIs
+
+## 🛠️ Tech Stack I Live In
+
+| Category         | Tools / Frameworks |
+|------------------|--------------------|
+| **Languages**     | Python, SQL, Shell |
+| **Analytics**     | Pandas, NumPy,matplotlib, SeaBorn, Power BI |
+| **ML / AI**       | Scikit-learn, XGBoost, Transformers, LangChain |
+| **Gen AI**        | OpenAI, Hugging Face, LLM pipelines |
+| **IDE & Infra**   | VSCode, Jupyter, Docker, Conda, Git |
+| **Dev Tools**     | Pre-commit, Markdown, YAML, Bash/Zsh |
+| **Platforms**     | Kaggle, Google Colab, Hugging Face, OpenAI APIs |
+
 
 ---
 
