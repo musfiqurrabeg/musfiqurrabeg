@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Musfiqur's Dev Environment – Data & AI Excellence</h1>
+<h1 align="center">⚙️ Musfiqur's Dev Environment – Data & AI</h1>
 
 <p align="center">
   <em>A hyper-personalized, ultra-productive setup built for <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Research Engineering</strong>.</em>
