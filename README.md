@@ -36,7 +36,9 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
 ## 🤝 Let’s Connect
 
 🌐 [Facebook](https://www.facebook.com/musfiqurr.abeg)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/musfiqurrabeg/)  
+
 📫 [Email](musfiqurabeg01@gmail.com)  
 
 ---
