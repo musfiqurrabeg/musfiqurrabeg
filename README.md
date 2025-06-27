@@ -66,7 +66,7 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
   </a>
   
   <a href="https://x.com/musfiqurr_abeg" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
 </p>
  
