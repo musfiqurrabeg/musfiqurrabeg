@@ -17,7 +17,8 @@
 
 ## 😎 About Me
 
-Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
+### Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
+
 
 I spend my time:
 - Automating insights with **Python** and **SQL**
