@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+Ultimate+Config+Vault;Optimized+for+Data+%26+AI+Excellence;Crafted+for+Performance+%26+Aesthetics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Repository;Optimized+for+Data+%26+AI+Excellence;Crafted+for+Performance+%26+Aesthetics" alt="Typing SVG" />
 </p>
 
 ## 🧠 About Me
