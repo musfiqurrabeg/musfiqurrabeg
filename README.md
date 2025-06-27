@@ -50,13 +50,26 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
 
 ---
 
-## 🤝 Let’s Connect
+<h3 align="left">You can also find me on:</h3>
 
-🌐 [Facebook](https://www.facebook.com/musfiqurr.abeg)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/musfiqurrabeg/)  
-
-📫 [Email](musfiqurabeg01@gmail.com)  
+<p align="left">
+  <a href="https://www.facebook.com/musfiqurr.abeg" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  
+  <a href="https://www.instagram.com/musfiqur_abeg/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/musfiqurrabeg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://x.com/musfiqurr_abeg" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
+  </a>
+</p>
+ 
 
 ---
 
