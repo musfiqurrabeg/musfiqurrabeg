@@ -1,7 +1,7 @@
 <h1 align="center">⚙️ Musfiqur's Dev Environment – Data & AI</h1>
 
 <p align="center">
-  <em>A hyper-personalized, productive setup built for <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Research Engineering</strong>.</em>
+  <em>A personalized, productive setup built for <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Research Engineering</strong>.</em>
 </p>
 
 <p align="center">
