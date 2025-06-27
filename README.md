@@ -75,3 +75,13 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
 
 > “Data is the new oil, but only if you know how to refine it.”  
 > — Me, probably. 😉
+
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F59E&width=700&lines=Welcome+to+My+GitHub+Sanctuary;I%27m+Musfiqur+Rahman+Abeg;Data+Science+•+Machine+Learning+•+Generative+AI" alt="Typing animation" />
+</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+</div>
