@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Generative%20AI-Focused-purple?style=flat-square&logo=openai">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+Ultimate+Config+Vault;Optimized+for+Data+%26+AI+Excellence;Crafted+for+Performance+%26+Aesthetics" alt="Typing SVG" />
+</p>
+
 ## 🧠 About Me
 
 Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
