@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F59E&width=600&lines=Welcome+to+My+GitHub+Repository;Hi+I+am+Musfiqur+Rahman+Abeg;Passionate+about+Data+Science%2C+Machine+Learning+%26+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F59E&width=600&lines=Welcome+to+My+GitHub+Repository;Hi+I+am+Musfiqur+Rahman+Abeg" alt="Typing SVG" />
 
 </div>
 
