@@ -75,3 +75,8 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
 
 > “Data is the new oil, but only if you know how to refine it.”  
 > — Me, probably. 😉
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+Digital+Lab;I+am+Musfiqur+Rahman+Abeg;Let’s+Decode+Data+Together!" alt="Typing SVG" />
+</p>
