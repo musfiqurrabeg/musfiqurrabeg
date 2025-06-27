@@ -15,6 +15,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Repository;Optimized+for+Data+%26+AI+Excellence;Crafted+for+Performance+%26+Aesthetics" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠-Data_Analytics-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🤖-Machine_Learning-critical?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🧬-Generative_AI-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/⚡-Power_Configs-black?style=for-the-badge">
+</p>
+
+
 ## 🧠 About Me
 
 Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
