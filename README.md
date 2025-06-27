@@ -24,7 +24,7 @@ I love solving real-world problems using:
 - 🐍 **Python** + 🧮 **SQL** for automating data insights  
 - 🧠 **Machine Learning** & 🤖 **LLMs** for intelligent systems  
 - 🛠️ Crafting dynamic pipelines that actually *work*  
-- 💡 Experimenting with **Generative AI** to push boundaries
+- 💡 Experimenting with 🤖 **Generative AI** to push boundaries
 
 This repo is my **digital toolbox** to streamline my data journey.
 
