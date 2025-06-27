@@ -29,13 +29,6 @@ This repo is my **digital toolbox** to streamline my data journey.
 
 ---
 
-## 🛠️ Tech Stack I Usually Work With
-
-- **Languages:** Python, SQL  
-- **Libraries:** pandas, NumPy, matplotlib, scikit-learn, seaborn, XGBoost, transformers  
-- **Tools:** Jupyter, VSCode, Git, Conda, Docker  
-- **Platforms:** Kaggle, Google Colab, Hugging Face, OpenAI APIs
-
 ## 🛠️ Tech Stack I Live In
 
 | Category         | Tools / Frameworks |
