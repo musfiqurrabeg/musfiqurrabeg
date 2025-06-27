@@ -34,15 +34,6 @@ This repo is my **digital toolbox** to streamline my data journey.
 
 ---
 
-## 💡 Why This Repo?
-
-I believe **efficiency is key** in data work.  
-These configs help me:
-
-- Set up new projects instantly  
-- Maintain clean environments  
-- Focus on experimentation over setup  
-
 If you're a fellow data explorer, feel free to fork or copy anything useful!
 
 ---
@@ -55,10 +46,6 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
 
 📫 [Email](musfiqurabeg01@gmail.com)  
 
----
-<p align="center">
-  <em>Made with ❤️ + ⚙️ by Musfiqur – A Mind Built for Data, A Heart Wired for AI.</em>
-</p>
 ---
 
 > “Data is the new oil, but only if you know how to refine it.”  
