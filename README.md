@@ -15,6 +15,9 @@
 </p>
 
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+
 ## 🧠 About Me
 
 Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
