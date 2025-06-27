@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Musfiqur's Dev Environment – Optimized for Data & AI Excellence</h1>
+<h1 align="center">⚙️ Musfiqur's Dev Environment – Data & AI Excellence</h1>
 
 <p align="center">
   <em>A hyper-personalized, ultra-productive setup built for <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Research Engineering</strong>.</em>
@@ -15,10 +15,11 @@
 
 Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
 
-🔹 I love crafting insights from raw data  
-🔹 I build predictive models using Machine Learning  
-🔹 I'm experimenting with Generative AI to push creative boundaries  
-🔹 I value clean, efficient workflows and reproducible results  
+I spend my time:
+- Automating insights with **Python** and **SQL**
+- Building smart pipelines with **Machine Learning**
+- Experimenting with **Generative AI** to push boundaries
+- Optimizing workflows for elite productivity
 
 This repo is my **digital toolbox** to streamline my data journey.
 
@@ -54,6 +55,10 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
 
 📫 [Email](musfiqurabeg01@gmail.com)  
 
+---
+<p align="center">
+  <em>Made with ❤️ + ⚙️ by Musfiqur – A Mind Built for Data, A Heart Wired for AI.</em>
+</p>
 ---
 
 > “Data is the new oil, but only if you know how to refine it.”  
