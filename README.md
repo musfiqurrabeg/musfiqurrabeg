@@ -1,51 +1,50 @@
-<h1 align="center">⚙️ Musfiqur's Dev Environment – Data & AI</h1>
+<h1 align="center">⚙️ Musfiqur's Dev Environment – AI & Security</h1>
 
 <p align="center">
-  <em>A personalized, productive setup built for <strong>Data Analytics</strong>, <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Research Engineering</strong>.</em>
+  <em>A personalized, productive setup built for <strong>AI Engineering</strong>, <strong>Generative AI Architectures</strong>, <strong>Offensive Security</strong>, and <strong>Automation</strong>.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-orange?style=flat-square&logo=google-analytics">
-  <img src="https://img.shields.io/badge/ML%20&%20AI-Enthusiast-orange?style=flat-square&logo=codeforces">
-  <img src="https://img.shields.io/badge/Generative%20AI-Focused-purple?style=flat-square&logo=openai">
+  <img src="https://img.shields.io/badge/AI%20Engineering-Practitioner-purple?style=flat-square&logo=openai">
+  <img src="https://img.shields.io/badge/Offensive%20Security-Hunter-red?style=flat-square&logo=kalilinux">
+  <img src="https://img.shields.io/badge/Generative%20AI-Focused-blue?style=flat-square&logo=anthropic">
+  <img src="https://img.shields.io/badge/AI%20Automation-Strategist-blue?style=flat-square&logo=anthropic">
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Repository;Hi+I+am+Musfiqur+Rahman+Abeg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F59E&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Repository;Hi+I+am+Musfiqur+Rahman+Abeg;Bridging+AI+and+Offensive+Security" alt="Typing SVG" />
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 😎 About Me
 
-### Hi, I'm Musfiqur Rahman Abeg – a passionate explorer of data, numbers, and intelligence.
+### Hi, I'm Musfiqur Rahman Abeg – bridging the gap between artificial intelligence and offensive security.
 
-I love solving real-world problems using:
-- 🐍 **Python** + 🧮 **SQL** for automating data insights  
-- 🧠 **Machine Learning** & 🤖 **LLMs** for intelligent systems  
-- 🛠️ Crafting dynamic pipelines that actually *work*  
-- 💡 Experimenting with 🤖 **Generative AI** to push boundaries
+I love solving real-world problems and hunting critical vulnerabilities using:
 
-This repo is my **digital toolbox** to streamline my data journey.
+- 🧠 **AI Engineering & LLMs**: Architecting autonomous agents, RAG systems, and intelligent workflows.
+- 🛡️ **Offensive Security**: Automating VAPT pipelines, web application hacking, and bug bounty hunting.
+- 🐍 **Python & Bash**: Crafting dynamic, concurrent attack tools and data pipelines that actually _work_.
+- 💡 **Generative AI**: Pushing the boundaries of what models can do in cybersecurity contexts.
+
+This repo is my **digital toolbox** to streamline my journey into Offensive AI.
 
 ---
 
 ## 🛠️ Tech Stack I Live In
 
-| Category         | Tools / Frameworks |
-|------------------|--------------------|
-| **Languages**     | Python, SQL, Shell |
-| **Analytics**     | Pandas, NumPy,matplotlib, SeaBorn, Power BI |
-| **ML / AI**       | Scikit-learn, XGBoost, Transformers, LangChain |
-| **Gen AI**        | OpenAI, Hugging Face, LLM pipelines |
-| **IDE & Infra**   | VSCode, Jupyter, Docker, Conda, Git |
-| **Dev Tools**     | Pre-commit, Markdown, YAML, Bash/Zsh |
-| **Platforms**     | Kaggle, Google Colab, Hugging Face, OpenAI APIs |
-
+| Category        | Tools / Frameworks                               |
+| --------------- | ------------------------------------------------ |
+| **Languages**   | Python, Shell/Bash, Go, SQL                      |
+| **AI / ML**     | PyTorch, Transformers, LangChain, LlamaIndex     |
+| **Gen AI**      | OpenAI APIs, Anthropic, Hugging Face, OpenRouter |
+| **CyberSec**    | Burp Suite, Nmap, Nuclei, Ffuf, SQLMap           |
+| **IDE & Infra** | VSCode, Docker, GitHub Actions, Linux/macOS      |
+| **Dev Tools**   | Asyncio, Playwright, Git, Markdown               |
 
 ---
 
-If you're a fellow data explorer, feel free to fork or copy anything useful!
+If you're a fellow security researcher or AI architect, feel free to fork or copy anything useful!
 
 ---
 
@@ -55,22 +54,18 @@ If you're a fellow data explorer, feel free to fork or copy anything useful!
   <a href="https://www.facebook.com/musfiqurr.abeg" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  
   <a href="https://www.instagram.com/musfiqur_abeg/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  
   <a href="https://www.linkedin.com/in/musfiqurrabeg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="https://x.com/musfiqurr_abeg" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
- 
 
 ---
 
-> “Data is the new oil, but only if you know how to refine it.”  
+> "Offensive AI is the new frontier, and I am building the arsenal."  
 > — Me, probably. 😉
